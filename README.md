@@ -54,7 +54,7 @@ This is a nice lightweight media player that works with Avisynth and FFmpeg pipe
 https://github.com/clsid2/mpc-hc/releases
 
 # Opcion
-A nice little open-source font viewer that lets you sample fonts using any text you want, and especially great for if you need to quickly sample through a lot of fonts. If you're wary about downloading the intaller executable, just get the portable .jar Java file instead and it should work as is as long as you have Java installed on your machine.
+A nice little open-source font viewer that lets you sample fonts using any text you want, and especially great for if you need to quickly sample through a lot of fonts. If you're wary about downloading the installer executable, just get the portable .jar Java file instead and it should work as is as long as you have Java installed on your machine.
 
 **Opcion**  
 http://opcion.sourceforge.net/

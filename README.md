@@ -20,9 +20,9 @@ Google Colab allows everyone free and instant access to a high-powered cloud-hos
 Whisper is OpenAI's speech recognition system, which is the upstream repository upon which most other such projects are forked from or based on somehow, and is still paving the way for much of the cutting-edge development in the space.  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Transcripts4All/tools4all/blob/main/whisper.ipynb)
 
-**Whisper-diarization**  
-Whisper-diarization is a much more advanced speech recognition system using the more accurate and faster whisperX system instead of the original whisper system, and also comes included with diarizaton for identifying speakers.  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Transcripts4All/tools4all/blob/main/whisper-diarization.ipynb)
+**faster-whisper**  
+As the name implies, faster-whisper is a much faster and much less GPU-intensive Whisper implementation, for the same accuracy, based on the CTranslate2 inference engine.  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Transcripts4All/tools4all/blob/main/faster-whisper.ipynb)
 
 # Google Fonts
 Google Fonts are a go-to for anyone needing free and open-source fonts since they have a huge selection to choose from, are the most popular font collection used on the Web, as well as are the native fonts used by Android, so basically everyone is already familiary with them in one way or another.

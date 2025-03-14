@@ -14,13 +14,13 @@ FontBase allows you to quickly load and unload only the fonts you want when you 
 https://fontba.se/
 
 # Google Colab
-Google Colab allows everyone free and instant access to a high-powered cloud-hosted virtual machine with a templated environment ready to go and specifically optimized for Python AI projects.
+Google Colab allows everyone free and instant access to a high-powered cloud-hosted virtual machine with a templated environment ready to go and specifically optimized for Python AI projects. The below colab notebooks are also clearly labeled in parentheses as to whether they are a GPU or CPU notebook, which could be important to know since GPU usage is much more restrictive/limited than CPU usage, depending on whether you pay for credits or just use the free daily quotas.
 
-**Whisper**  
+**Whisper (GPU)**  
 Whisper is OpenAI's speech recognition system, which is the upstream repository upon which most other such projects are forked from or based on somehow, and is still paving the way for much of the cutting-edge development in the space.  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Transcripts4All/tools4all/blob/main/whisper.ipynb)
 
-**faster-whisper**  
+**faster-whisper (GPU)**  
 As the name implies, faster-whisper is a much faster and much less GPU-intensive Whisper implementation, for the same accuracy, based on the CTranslate2 inference engine.  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Transcripts4All/tools4all/blob/main/faster-whisper.ipynb)
 

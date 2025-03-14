@@ -24,6 +24,14 @@ Whisper is OpenAI's speech recognition system, which is the upstream repository 
 As the name implies, faster-whisper is a much faster and much less GPU-intensive Whisper implementation, for the same accuracy, based on the CTranslate2 inference engine.  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Transcripts4All/tools4all/blob/main/faster-whisper.ipynb)
 
+**Faster-Whisper-XXL (GPU)**  
+A stand-alone compiled version of faster-whisper which also supports diarization and adding speaker tokens.  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Transcripts4All/tools4all/blob/main/Faster-Whisper-XXL-GPU.ipynb)
+
+**Faster-Whisper-XXL (CPU)**  
+The same thing as the above Faster-Whisper-XXL, supporting diarization, but running on CPU instead of GPU.  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Transcripts4All/tools4all/blob/main/Faster-Whisper-XXL-CPU.ipynb)
+
 # Google Fonts
 Google Fonts are a go-to for anyone needing free and open-source fonts since they have a huge selection to choose from, are the most popular font collection used on the Web, as well as are the native fonts used by Android, so basically everyone is already familiary with them in one way or another.
 
